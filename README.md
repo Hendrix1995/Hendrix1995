@@ -1,9 +1,9 @@
-#### 👋 Hello, there
-#### I'm hyeonseong lim, but I go by hendrix. 🎸
-#### I'm web developer using React and Javascript. 💻
-#### I enjoy develop about UX/UI using SASS,SCSS and Styled-Components. 🙆‍♂️
-#### 📬 Email : hgud55@naver.com
-#### 📝 Blog : https://hyeonsi.tistory.com
+### 👋 Hello, there
+### I'm hyeonseong lim, but I go by hendrix. 🎸
+### I'm web developer using React and Javascript. 💻
+### I enjoy develop about UX/UI using SASS,SCSS and Styled-Components. 🙆‍♂️
+### 📬 Email : hgud55@naver.com
+### 📝 Blog : https://hyeonsi.tistory.com
 
 <br />
 
