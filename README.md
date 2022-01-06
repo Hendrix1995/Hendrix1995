@@ -4,7 +4,7 @@
 ### I enjoy develop about UX/UI using SASS,SCSS and Styled-Components. 🙆‍♂️
 ### 📬 Email : hgud55@naver.com
 ### 📝 Blog : https://hyeonsi.tistory.com
-### 🙋‍♂️ Portfolio : https://outrageous-tiger-d2b.notion.site/Hyeonseong-Lim-f104201add12477e97e6449b7b2bac84
+### 🙋‍♂️ Portfolio : https://url.kr/57nytx
 
 <br />
 
