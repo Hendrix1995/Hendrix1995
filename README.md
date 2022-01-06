@@ -4,7 +4,7 @@
 ### I enjoy develop about UX/UI using SASS,SCSS and Styled-Components. 🙆‍♂️
 ### 📬 Email : hgud55@naver.com
 ### 📝 Blog : https://hyeonsi.tistory.com
-### 🙋‍♂️ Portfolio : https://url.kr/57nytx
+### 🙋‍♂️ Notion Portfolio : https://url.kr/57nytx
 
 <br />
 
