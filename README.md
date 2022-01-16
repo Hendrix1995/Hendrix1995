@@ -4,7 +4,8 @@
 ### I enjoy develop about UX/UI using SASS,SCSS and Styled-Components. 🙆‍♂️
 ### 📬 Email : hgud55@naver.com
 ### 📝 Blog : https://hyeonsi.tistory.com
-### 🙋‍♂️ Notion Portfolio : https://url.kr/57nytx
+### 🙋‍♂️ Portfolio : https://hendrix1995.github.io
+### 📄 Resume : https://url.kr/57nytx
 
 <br />
 
@@ -22,6 +23,7 @@
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-gray?style=flat-square&logo=Express&logoColor=white"/>
 </p>
@@ -36,5 +38,13 @@
 
 <p>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+</p>
+
+#### ✍️ Learning
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
