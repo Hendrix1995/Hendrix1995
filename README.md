@@ -5,7 +5,7 @@
 ### 📬 Email : hgud55@gamil.com
 ### 📝 Blog : https://hyeonsi.tistory.com
 ### 🙋‍♂️ Portfolio : https://hendrix1995.github.io
-### 📄 Resume : https://url.kr/57nytx
+### 📄 Resume(Notion) : https://url.kr/57nytx
 
 <br />
 
