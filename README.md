@@ -1,7 +1,7 @@
 ### 👋 Hello, there
 ### I'm hyeonseong lim, but I go by hendrix. 🎸
-### I'm web developer using React and Javascript. 💻
-### I enjoy develop about UX/UI using SASS,SCSS and Styled-Components. 🙆‍♂️
+### I'm developer who try to better user experience and make reusable code. 💻
+
 ### 📬 Email : hgud55@gamil.com
 ### 📝 Blog : https://hyeonsi.tistory.com
 ### 🙋‍♂️ Portfolio : https://hendrix1995.github.io
@@ -14,18 +14,17 @@
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-FF7800?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3077C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
 #### 👍 Framework & Library
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-gray?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind(twind)-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </p>
 
 #### 📂 DB
@@ -41,10 +40,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon(AWS)-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-</p>
-
-#### ✍️ Learning
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon(AWS)-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 </p>
