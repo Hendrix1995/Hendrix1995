@@ -2,7 +2,7 @@
 ### I'm hyeonseong lim, but I go by hendrix. 🎸
 ### I'm developer who try to better user experience and make reusable code. 💻
 
-### 📬 Email : hgud55@gamil.com
+### 📬 Email : hgud55@gmail.com
 ### 📝 Blog : https://hyeonsi.tistory.com
 ### 🙋‍♂️ Portfolio : https://hendrix1995.github.io
 ### 📄 Resume(Notion) : https://url.kr/57nytx
