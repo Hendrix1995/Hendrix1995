@@ -1,46 +1,20 @@
-### 👋 Hello, there
-### I'm hyeonseong lim, but I go by hendrix. 🎸
-### I'm developer who try to better user experience and make reusable code. 💻
+<div align="center">
 
-### 📬 Email : hgud55@gmail.com
-### 📝 Blog : https://hyeonsi.tistory.com
-### 🙋‍♂️ Portfolio : https://hendrix1995.github.io
-### 📄 Resume(Notion) : https://url.kr/57nytx
+## 👋 Welcome to Hendrix's Space
+
+<p><i>Developer focused on delivering better UX and writing reusable code.</i></p>
 
 <br />
 
-### 💪 Skills
-#### 👊 Language
-
 <p>
-<img src="https://img.shields.io/badge/JavaScript-FF7800?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3077C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <a href="mailto:hgud55@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://hyeonsi.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog" /></a>
+  <a href="https://hendrix1995.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://url.kr/57nytx"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Resume" /></a>
 </p>
 
-#### 👍 Framework & Library
+<br />
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind(twind)-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=hendrix1995&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" alt="GitHub Stats" />
 
-#### 📂 DB
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-</p>
-
-#### 🔨 Tools
-
-<p>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon(AWS)-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon(AWS)-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-</p>
+</div>
