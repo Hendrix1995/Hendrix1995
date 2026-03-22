@@ -10,7 +10,7 @@
   <a href="mailto:hgud55@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://hyeonsi.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog" /></a>
   <a href="https://hendrix1995.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://url.kr/57nytx"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Resume" /></a>
+  <a href="https://outrageous-tiger-d2b.notion.site/Hyeonseong-Lim-f104201add12477e97e6449b7b2bac84?pvs=74"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Resume" /></a>
 </p>
 
 <br />
